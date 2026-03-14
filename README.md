@@ -35,7 +35,7 @@ puntos de inflexión con reporte y gráfica incluidos.
 
 ### Análisis completo de una función
 Abrir `busqueda_completa.mlx` en el Live Editor de MATLAB y sustituir
-la función deseada en la celda de configuración inicial.
+la función deseada en la celda de configuración inicial. Para este archivo no es necesario tener los demás descargados. 
 
 ### Comparativa de métodos
 Ejecutar `pruebas.m`. **Es necesario tener todos los archivos del repositorio
