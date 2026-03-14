@@ -63,7 +63,7 @@ fprintf('\n--- COMPARATIVA DE MÉTODOS ---\n');
 disp(TablaRes);
 
 % Figura única
-figure('Position', [50, 50, 1600, 900]);
+figure('Units', 'normalized', 'Position', [0, 0, 1, 1]);
 n_cols = 5;
 n_rows = ceil(length(metodos) / n_cols);
 
